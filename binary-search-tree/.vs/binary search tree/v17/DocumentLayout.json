@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\softwear\\blue\\programing\\binary search tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF9A2A9-B041-43E1-8942-465AC32ACEE5}|binary search tree\\binary search tree.vcxproj|E:\\softwear\\blue\\programing\\binary search tree\\binary search tree\\binary search tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFF9A2A9-B041-43E1-8942-465AC32ACEE5}|binary search tree\\binary search tree.vcxproj|solutionrelative:binary search tree\\binary search tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binary search tree.cpp",
+              "DocumentMoniker": "E:\\softwear\\blue\\programing\\binary search tree\\binary search tree\\binary search tree.cpp",
+              "RelativeDocumentMoniker": "binary search tree\\binary search tree.cpp",
+              "ToolTip": "E:\\softwear\\blue\\programing\\binary search tree\\binary search tree\\binary search tree.cpp",
+              "RelativeToolTip": "binary search tree\\binary search tree.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T08:54:06.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

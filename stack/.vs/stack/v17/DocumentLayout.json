@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\softwear\\blue\\programing\\stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819856CD-1178-4752-A69E-5440386358F5}|stack\\stack.vcxproj|E:\\softwear\\blue\\programing\\stack\\stack\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{819856CD-1178-4752-A69E-5440386358F5}|stack\\stack.vcxproj|solutionrelative:stack\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "E:\\softwear\\blue\\programing\\stack\\stack\\stack.cpp",
+              "RelativeDocumentMoniker": "stack\\stack.cpp",
+              "ToolTip": "E:\\softwear\\blue\\programing\\stack\\stack\\stack.cpp",
+              "RelativeToolTip": "stack\\stack.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwFwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T10:29:23.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

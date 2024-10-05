@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\softwear\\blue\\programing\\linkedlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3F387D-2D58-4CA4-AB04-987D6630A26B}|linkedlist\\linkedlist.vcxproj|E:\\softwear\\blue\\programing\\linkedlist\\linkedlist\\linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3F387D-2D58-4CA4-AB04-987D6630A26B}|linkedlist\\linkedlist.vcxproj|solutionrelative:linkedlist\\linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linkedlist.cpp",
+              "DocumentMoniker": "E:\\softwear\\blue\\programing\\linkedlist\\linkedlist\\linkedlist.cpp",
+              "RelativeDocumentMoniker": "linkedlist\\linkedlist.cpp",
+              "ToolTip": "E:\\softwear\\blue\\programing\\linkedlist\\linkedlist\\linkedlist.cpp",
+              "RelativeToolTip": "linkedlist\\linkedlist.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T12:30:10.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

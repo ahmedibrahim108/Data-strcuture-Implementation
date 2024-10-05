@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\softwear\\blue\\programing\\queue imp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D2C11-C8DA-4AC9-8348-F94511E3D55E}|queue imp\\queue imp.vcxproj|E:\\softwear\\blue\\programing\\queue imp\\queue imp\\queue imp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E39D2C11-C8DA-4AC9-8348-F94511E3D55E}|queue imp\\queue imp.vcxproj|solutionrelative:queue imp\\queue imp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue imp.cpp",
+              "DocumentMoniker": "E:\\softwear\\blue\\programing\\queue imp\\queue imp\\queue imp.cpp",
+              "RelativeDocumentMoniker": "queue imp\\queue imp.cpp",
+              "ToolTip": "E:\\softwear\\blue\\programing\\queue imp\\queue imp\\queue imp.cpp",
+              "RelativeToolTip": "queue imp\\queue imp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T13:48:48.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
